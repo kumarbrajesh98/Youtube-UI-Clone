@@ -1,0 +1,29 @@
+.parent{
+  display: grid;
+  grid-template-columns: 100px 100px;
+  height: 200px;
+}
+
+.parent_derived{
+  display: grid;
+  grid-template-columns: 100px 1fr;
+}
+
+.first{
+  background-color: red;
+  /* height: 100px; */
+}
+
+.first1{
+  background-color: red;
+  height: 100px;
+}
+
+.second{
+  background-color: pink;
+}
+
+.third{
+
+  background-color: aqua;
+}

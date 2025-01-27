@@ -1,0 +1,38 @@
+.text-exercise{
+  font-size: 20px;
+  font-weight: bold;
+  font-family: serif;
+  line-height: 28px; 
+  width: 350px;   
+  margin-bottom: 3px;
+}
+
+.views{
+  color: grey;
+  margin-bottom: 20px;
+  margin-top: 4px;
+  margin-bottom: 20px;
+}
+.name{
+  color: grey;
+}
+
+.description{
+  color: grey;
+  height: 40px;
+  width: 330px;
+}
+
+.last-content{
+  margin-top: 130px;
+  background-color: rgb(231, 80, 80);
+  text-align: center;
+  padding-top: 19px;
+  color: white;
+  padding-bottom: 19px;
+}
+
+.underlined_text:hover{
+  cursor: pointer;
+  text-decoration: underline;
+}

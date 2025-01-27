@@ -1,0 +1,33 @@
+
+.dropdown-menu{
+  position: fixed;
+  left: 0;
+  top: 0;
+  height: 100vh;
+  background-color: white;
+  width: 90px;
+  display: flex;
+  flex-direction: column;
+  padding-top: 70px;
+}
+
+.dropdown-menu div{
+  width: 80px;
+  height: 80px;
+  margin: 5px;
+  font-size: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.dropdown-menu div:hover{
+  background-color: rgb(192, 188, 188);
+}
+
+.dropdown-menu div p{
+  display: block;
+  padding-top: 5px;
+  font-size: 10px;
+}

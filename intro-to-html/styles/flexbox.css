@@ -1,0 +1,17 @@
+.flexbox{
+  display: flex;
+  flex-direction: row;
+}
+
+.one{
+  background-color: aqua;
+}
+
+.two{
+  background-color: brown;
+}
+
+.three{
+  background-color: aqua;
+}
+
